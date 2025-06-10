@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mcp-gateway:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-06-10T03:14:44.728859611Z"
+    description: A Helm chart for MCP-Gateway
+    digest: ffaaa16f417fe965ededdf8d10934913854c6374c608b2245f9f5e65f0d16e46
+    name: mcp-gateway
+    type: application
+    urls:
+    - https://mcp-ecosystem.github.io/mcp-gateway-helm-charts/mcp-gateway-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-06-10T03:14:44.727821436Z"

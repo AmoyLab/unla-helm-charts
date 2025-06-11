@@ -3,22 +3,22 @@ entries:
   mcp-gateway:
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2025-06-10T13:51:19.888187598Z"
+    created: "2025-06-11T08:48:45.747860354Z"
     description: A Helm chart for MCP-Gateway
-    digest: 021d85c239559b57e8704672fbc44c177244154a78b7b005f23a20333054e6cd
+    digest: 8b7e34fde809cc49a37b972bb06447d6cdc9e19ad56538ca18eb53edbd7f66b1
     name: mcp-gateway
     type: application
     urls:
-    - https://mcp-ecosystem.github.io/mcp-gateway-helm-charts/mcp-gateway-0.6.3.tgz
+    - https://amoylba.github.io/unla-helm-charts/mcp-gateway-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-10T13:51:19.887326988Z"
+    created: "2025-06-11T08:48:45.747009803Z"
     description: A Helm chart for MCP-Gateway
     digest: ffaaa16f417fe965ededdf8d10934913854c6374c608b2245f9f5e65f0d16e46
     name: mcp-gateway
     type: application
     urls:
-    - https://mcp-ecosystem.github.io/mcp-gateway-helm-charts/mcp-gateway-0.1.0.tgz
+    - https://amoylba.github.io/unla-helm-charts/mcp-gateway-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-10T13:51:19.886325134Z"
+generated: "2025-06-11T08:48:45.745993432Z"

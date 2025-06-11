@@ -86,39 +86,3 @@ To uninstall/delete the MCP Gateway deployment:
 ```bash
 helm uninstall mcp-gateway
 ```
-
-## Packaging and Publishing
-
-To package and publish the Helm chart to GitHub Pages:
-
-1. Package the chart:
-```bash
-helm package mcp-gateway
-```
-
-2. Create a GitHub Pages branch (if not already done):
-```bash
-git checkout -b gh-pages
-```
-
-3. Create or update the index.yaml file:
-```bash
-helm repo index . --url https://mcp-ecosystem.github.io/mcp-gateway-helm-charts
-```
-
-4. Commit and push the changes:
-```bash
-git add .
-git commit -m "Update Helm chart index"
-git push origin gh-pages
-```
-
-5. Enable GitHub Pages in your repository settings:
-   - Go to repository Settings > Pages
-   - Select the `gh-pages` branch as the source
-   - Save the settings
-
-After publishing, users can add your repository using:
-```bash
-helm repo add mcp-gateway https://mcp-ecosystem.github.io/mcp-gateway-helm-charts
-```

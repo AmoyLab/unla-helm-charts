@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   mcp-gateway:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2025-06-10T22:05:53.908378-03:00"
+    appVersion: 0.6.4
+    created: "2025-06-10T22:08:57.902447-03:00"
+    description: A Helm chart for MCP-Gateway
+    digest: 4c5c50d4a1035346a2ad26d263f4fd45894faaa8aa63208b20220b9883d9132a
+    name: mcp-gateway
+    type: application
+    urls:
+    - https://elvus.github.io/mcp-gateway-helm-charts/mcp-gateway-0.6.4.tgz
+    version: 0.6.4
+  - apiVersion: v2
+    appVersion: 0.6.3
+    created: "2025-06-10T22:08:57.901657-03:00"
     description: A Helm chart for MCP-Gateway
     digest: 64eb8f083aefc88a0e0d7d10eee646b70a37b87f00c6cac44b0d066e23c4e0eb
     name: mcp-gateway
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://elvus.github.io/mcp-gateway-helm-charts/mcp-gateway-0.6.3.tgz
     version: 0.6.3
-generated: "2025-06-10T22:05:53.907482-03:00"
+generated: "2025-06-10T22:08:57.900745-03:00"

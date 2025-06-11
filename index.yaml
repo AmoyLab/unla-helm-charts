@@ -2,23 +2,23 @@ apiVersion: v1
 entries:
   mcp-gateway:
   - apiVersion: v2
-    appVersion: 0.6.3
-    created: "2025-06-10T13:51:19.888187598Z"
+    appVersion: 1.16.0
+    created: "2025-06-10T22:01:11.029941-03:00"
     description: A Helm chart for MCP-Gateway
-    digest: 021d85c239559b57e8704672fbc44c177244154a78b7b005f23a20333054e6cd
+    digest: 1a2f83ae5b8265222dabb590cee145d8385241d38d37ec44d5b764bd477989ed
     name: mcp-gateway
     type: application
     urls:
-    - https://mcp-ecosystem.github.io/mcp-gateway-helm-charts/mcp-gateway-0.6.3.tgz
+    - https://elvus.github.io/mcp-gateway-helm-charts/mcp-gateway-0.6.3.tgz
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-10T13:51:19.887326988Z"
+    created: "2025-06-10T22:01:11.029178-03:00"
     description: A Helm chart for MCP-Gateway
-    digest: ffaaa16f417fe965ededdf8d10934913854c6374c608b2245f9f5e65f0d16e46
+    digest: 006467a3c3438d9a9a166b3cf656e7c4eff3e3f0ff7cfad4668493ccfbfa6cfb
     name: mcp-gateway
     type: application
     urls:
-    - https://mcp-ecosystem.github.io/mcp-gateway-helm-charts/mcp-gateway-0.1.0.tgz
+    - https://elvus.github.io/mcp-gateway-helm-charts/mcp-gateway-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-10T13:51:19.886325134Z"
+generated: "2025-06-10T22:01:11.028255-03:00"

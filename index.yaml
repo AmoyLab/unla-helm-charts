@@ -3,7 +3,7 @@ entries:
   mcp-gateway:
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2025-06-17T09:07:21.568234968Z"
+    created: "2025-06-22T15:36:47.223796227Z"
     description: A Helm chart for MCP-Gateway
     digest: 8b7e34fde809cc49a37b972bb06447d6cdc9e19ad56538ca18eb53edbd7f66b1
     name: mcp-gateway
@@ -13,7 +13,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-17T09:07:21.567354303Z"
+    created: "2025-06-22T15:36:47.222938771Z"
     description: A Helm chart for MCP-Gateway
     digest: ffaaa16f417fe965ededdf8d10934913854c6374c608b2245f9f5e65f0d16e46
     name: mcp-gateway
@@ -23,8 +23,18 @@ entries:
     version: 0.1.0
   unla:
   - apiVersion: v2
+    appVersion: 0.8.0
+    created: "2025-06-22T15:36:47.226267808Z"
+    description: A Helm chart for Unla
+    digest: 880a3534e6b06961ca9578083e3cf14bc986f559d04b1941cf6b7a85c08f07c5
+    name: unla
+    type: application
+    urls:
+    - https://amoylba.github.io/unla-helm-charts/unla-0.8.0.tgz
+    version: 0.8.0
+  - apiVersion: v2
     appVersion: 0.7.1
-    created: "2025-06-17T09:07:21.570173912Z"
+    created: "2025-06-22T15:36:47.225455756Z"
     description: A Helm chart for Unla
     digest: 62b7a02f2f0fd17a426d1c424c73f579e57b96e687d2723986be0bee50809279
     name: unla
@@ -34,7 +44,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2025-06-17T09:07:21.569073143Z"
+    created: "2025-06-22T15:36:47.2246248Z"
     description: A Helm chart for Unla
     digest: 67bbf04f027390107e67dead8d2472ed3e2f4e765d1abce82f8ad87649a4e9dd
     name: unla
@@ -42,4 +52,4 @@ entries:
     urls:
     - https://amoylba.github.io/unla-helm-charts/unla-0.7.0.tgz
     version: 0.7.0
-generated: "2025-06-17T09:07:21.566317654Z"
+generated: "2025-06-22T15:36:47.221824384Z"

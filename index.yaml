@@ -3,7 +3,7 @@ entries:
   mcp-gateway:
   - apiVersion: v2
     appVersion: 0.6.3
-    created: "2026-01-09T08:36:44.638673455Z"
+    created: "2026-01-21T02:22:22.711810577Z"
     description: A Helm chart for MCP-Gateway
     digest: 8b7e34fde809cc49a37b972bb06447d6cdc9e19ad56538ca18eb53edbd7f66b1
     name: mcp-gateway
@@ -13,7 +13,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-09T08:36:44.637789644Z"
+    created: "2026-01-21T02:22:22.710954894Z"
     description: A Helm chart for MCP-Gateway
     digest: ffaaa16f417fe965ededdf8d10934913854c6374c608b2245f9f5e65f0d16e46
     name: mcp-gateway
@@ -24,9 +24,9 @@ entries:
   unla:
   - apiVersion: v2
     appVersion: 0.9.1
-    created: "2026-01-09T08:36:44.649566062Z"
+    created: "2026-01-21T02:22:22.722141986Z"
     description: A Helm chart for Unla
-    digest: 4765077a11d1aa7bc61428be1b935932914f5db45566cb0c4d273a14d54c5256
+    digest: 8b162c5527d9865e8e4d160f0c6387d7cff2587866f495a0c68ce6ddfe0a4df5
     name: unla
     type: application
     urls:
@@ -34,7 +34,7 @@ entries:
     version: 0.9.1
   - apiVersion: v2
     appVersion: 0.9.0
-    created: "2026-01-09T08:36:44.648733423Z"
+    created: "2026-01-21T02:22:22.72134933Z"
     description: A Helm chart for Unla
     digest: 1cb627ea6d8d4a2f52ce54dcd2af648f86f1fa1f59ba283e6453f9f9c07eceed
     name: unla
@@ -44,7 +44,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 0.8.6
-    created: "2026-01-09T08:36:44.647908583Z"
+    created: "2026-01-21T02:22:22.720569498Z"
     description: A Helm chart for Unla
     digest: e7f1ce7f9db9ac0abf04368bb138064c4c3b0472befbbac00338ba26daa51eec
     name: unla
@@ -54,7 +54,7 @@ entries:
     version: 0.8.6
   - apiVersion: v2
     appVersion: 0.8.5
-    created: "2026-01-09T08:36:44.64700431Z"
+    created: "2026-01-21T02:22:22.719752046Z"
     description: A Helm chart for Unla
     digest: 0d8ec01a620ed2baadf9ebea8fbf6961b2a6f93ead2712feef6354282a553f70
     name: unla
@@ -64,7 +64,7 @@ entries:
     version: 0.8.5
   - apiVersion: v2
     appVersion: 0.8.4
-    created: "2026-01-09T08:36:44.646175921Z"
+    created: "2026-01-21T02:22:22.718907023Z"
     description: A Helm chart for Unla
     digest: 65b67aafc1f25ac36b8515c4833d58f29eb46418842097a9c4e97a2262a39ebb
     name: unla
@@ -74,7 +74,7 @@ entries:
     version: 0.8.4
   - apiVersion: v2
     appVersion: 0.8.3
-    created: "2026-01-09T08:36:44.645334722Z"
+    created: "2026-01-21T02:22:22.718095953Z"
     description: A Helm chart for Unla
     digest: f4db890ba3c5702f6fcb3e455f7f449a8ca4cbcfd53c6c8469555efb881fc57d
     name: unla
@@ -84,7 +84,7 @@ entries:
     version: 0.8.3
   - apiVersion: v2
     appVersion: 0.8.2
-    created: "2026-01-09T08:36:44.644398614Z"
+    created: "2026-01-21T02:22:22.717248304Z"
     description: A Helm chart for Unla
     digest: 51e38e93862fbd70bc098f2068290c0f4d8ed117de7c7fcba0c16d0ce3b9633a
     name: unla
@@ -94,7 +94,7 @@ entries:
     version: 0.8.2
   - apiVersion: v2
     appVersion: 0.8.1
-    created: "2026-01-09T08:36:44.642330172Z"
+    created: "2026-01-21T02:22:22.716107979Z"
     description: A Helm chart for Unla
     digest: f032d848aecdca94c15d808dde5693a3b8ec3c6263198ff5423c9b2fcb43b487
     name: unla
@@ -104,7 +104,7 @@ entries:
     version: 0.8.1
   - apiVersion: v2
     appVersion: 0.8.0
-    created: "2026-01-09T08:36:44.64153348Z"
+    created: "2026-01-21T02:22:22.714529079Z"
     description: A Helm chart for Unla
     digest: c0fae1efe91a67ed22d40a029edf014ff4e715c46f30a5b5447fb52bf4950ed9
     name: unla
@@ -114,7 +114,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 0.7.1
-    created: "2026-01-09T08:36:44.640323629Z"
+    created: "2026-01-21T02:22:22.713674909Z"
     description: A Helm chart for Unla
     digest: 62b7a02f2f0fd17a426d1c424c73f579e57b96e687d2723986be0bee50809279
     name: unla
@@ -124,7 +124,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: 0.7.0
-    created: "2026-01-09T08:36:44.6395026Z"
+    created: "2026-01-21T02:22:22.712647436Z"
     description: A Helm chart for Unla
     digest: 67bbf04f027390107e67dead8d2472ed3e2f4e765d1abce82f8ad87649a4e9dd
     name: unla
@@ -132,4 +132,4 @@ entries:
     urls:
     - https://amoylab.github.io/unla-helm-charts/unla-0.7.0.tgz
     version: 0.7.0
-generated: "2026-01-09T08:36:44.636715688Z"
+generated: "2026-01-21T02:22:22.709934424Z"
